@@ -1,0 +1,7 @@
+Maggie Hermanson
+Module 10 – Report
+
+A lot of the problems I’ve been having with my portfolio site is that the markup that I’ve made in Codepen do not reflect what is going on when I put the site into my own html and CSS documents. This is very frustrating when it comes to reflecting the design of my original markup.
+As for logistical problems with the design, I’ve been having problems with being able to set up a proper portfolio display. I had originally planned to have a rotating gallery, so that way the user would be able to view my work without necessarily clicking on the Portfolio tab, but I see now that doing that would make no sense (and is also impractical for the type of coding I’m able to do at this stage in my learning). If anything, I should put some of my more recent work up on display there as opposed to trying to fit many different pieces in a rotating gallery. 
+In order to improve my design, I shall be working a lot on the spacing of the entire portfolio and linking up the HTML spaces of the tabs. This will hopefully give the user a more complete experience of my site, especially if the user is someone who wants to hire me. 
+Otherwise, it will just be me uploading all of my work and configuring the HTML structure of the rest of my tabs, hopefully learning little tips and tricks along the way to make my portfolio a much more complete one – or at least one that is more interactive. 
