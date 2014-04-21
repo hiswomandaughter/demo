@@ -3,11 +3,15 @@ body {
 	background-color:#000000;
 	color:#c0c0c0;
 	}
+#topbit {
+  text-align: center;
+  font-family: Book Antiqua;
+}
 	
 h1 {
 	font-size:32px;
-	color:#006600;
-	background-color:#222222;
+	color:#ffffff;
+	background-color:#00000;
 	}
 	
 h2 {
@@ -25,12 +29,16 @@ h4, h5, h6 {
 	color:#ff88ff;
 	background-color:#222222;
 	}
-
+ul {
+  text-decoration: none;
+  list-style-type: none;
+  text-align:left;
+}
 a {
 	text-decoration:none;
 	color:#ffffff;
 	}
 	
 a:hover {
-	color:#00ff00;
+	color:#CC98DC;
 	}
